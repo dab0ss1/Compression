@@ -1,2 +1,2 @@
-# Compression-Git
+# Compression
 Recreating the JPEG compression algorithm
